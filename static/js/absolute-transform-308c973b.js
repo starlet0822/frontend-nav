@@ -1,1 +1,0 @@
-import{d as s,f as o,g as e,_ as a}from"./index-e3adf0ce.js";const t=s({name:"PositionTransform",setup(){return()=>o("div",{class:"box-wrapper position"},[o("div",{class:"box"},[e("position + transform")])])}});const r=a(t,[["__scopeId","data-v-dcdcc011"]]);export{r as default};
