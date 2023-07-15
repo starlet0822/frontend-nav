@@ -1,0 +1,1 @@
+import{_ as o}from"./videojs-player.vue_vue_type_script_setup_true_lang-1dbeb332.js";import{d as t,b as a,j as r,f as e,w as s,e as _}from"./index-4c66b48c.js";const f=t({__name:"index",setup(c){return(l,m)=>{const n=a("el-card");return _(),r("div",null,[e(n,null,{default:s(()=>[e(o)]),_:1})])}}});export{f as default};
