@@ -1,1 +1,0 @@
-import{d as a,f as e,S as s,Y as t,g as o,_ as i}from"./index-a0f92485.js";const n=a({name:"PositionMargin",setup(){return()=>e("div",{class:"box-wrapper margin"},[s(e("div",{class:"box"},[o("position + margin")]),[[t("waves")]])])}});const _=i(n,[["__scopeId","data-v-a4e3f165"]]);export{_ as default};

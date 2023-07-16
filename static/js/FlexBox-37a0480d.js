@@ -1,1 +1,0 @@
-import{d as s,f as e,S as a,Y as o,g as t,_}from"./index-a0f92485.js";const c=s({name:"FlexBox",setup(){return()=>e("div",{class:"box-wrapper flex"},[a(e("div",{class:"box"},[t("flex 布局")]),[[o("waves")]])])}});const r=_(c,[["__scopeId","data-v-3400fcf3"]]);export{r as default};
