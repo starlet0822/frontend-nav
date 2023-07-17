@@ -1,1 +1,0 @@
-import{d as s,f as e,S as o,Y as t,g as a}from"./index-f3a66a97.js";import{_}from"./_plugin-vue_export-helper-c27b6911.js";const c=s({name:"FlexBox",setup(){return()=>e("div",{class:"box-wrapper flex"},[o(e("div",{class:"box"},[a("flex 布局")]),[[t("waves")]])])}});const f=_(c,[["__scopeId","data-v-3400fcf3"]]);export{f as default};
