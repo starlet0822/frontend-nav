@@ -1,1 +1,0 @@
-import{d as a,f as e,S as s,Y as o,g as t}from"./index-92b6d272.js";import{_ as i}from"./plugin-vueexport-helper-c27b6911.js";const r=a({name:"PositionMargin",setup(){return()=>e("div",{class:"box-wrapper margin"},[s(e("div",{class:"box"},[t("position + margin")]),[[o("waves")]])])}});const c=i(r,[["__scopeId","data-v-a4e3f165"]]);export{c as default};
