@@ -1,1 +1,0 @@
-import{_ as t}from"./videojs-player.vuevuetypescriptsetuptruelang-dfb5ac91.js";import{d as a,b as s,j as r,f as e,w as c,e as l}from"./index-d20c5bfd.js";const i=a({__name:"index",setup(_){const n=()=>{};return(d,m)=>{const o=s("el-card");return l(),r("div",null,[e(o,null,{default:c(()=>[e(t,{onVnodeMounted:n},null,512)]),_:1})])}}});export{i as default};
