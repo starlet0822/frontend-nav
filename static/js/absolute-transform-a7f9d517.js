@@ -1,0 +1,1 @@
+import{a as s,c as e,U as o,Z as a,j as t}from"./index-77d71d8d.js";import{_ as r}from"./plugin-vueexport-helper-c27b6911.js";const i=s({name:"PositionTransform",setup(){return()=>e("div",{class:"box-wrapper position"},[o(e("div",{class:"box"},[t("position + transform")]),[[a("waves")]])])}});const c=r(i,[["__scopeId","data-v-0b68f83e"]]);export{c as default};
